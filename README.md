@@ -1,10 +1,8 @@
 # EPL Standing Widget
 
-Please credit the original designer of this project if you're using this design and project. Thanks
-
 Visit my Behance profile for more UI designs: [Ankit Passi on Behance](https://www.behance.net/passiankitd8a0)
 
-[![N|Solid](https://github.com/ankitpassi141/EPL-Standing-Widget/blob/master/Release/EPL%20Widget%20Logo.png?raw=false)](https://github.com/ankitpassi141/EPL-Standing-Widget)
+[![N|Solid](https://raw.githubusercontent.com/ankitpassi141/EPL-Standing-Widget/master/Release/EPL%20Logo%202.png?token=ARYE-eGBUIDWxufkR_Qi-VfKfePp3R7dks5aXxy4wA%3D%3D)](https://github.com/ankitpassi141/EPL-Standing-Widget)
 
 * [Introduction](#1---introduction)
 * [Assets](#2---assets)
