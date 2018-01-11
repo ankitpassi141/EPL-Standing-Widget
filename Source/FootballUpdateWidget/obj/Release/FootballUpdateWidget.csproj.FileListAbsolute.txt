@@ -1,0 +1,130 @@
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\bin\Release\FootballUpdateWidget.dll
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\bin\Release\FootballUpdateWidget.pdb
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\bin\Release\EPL_Lineup_Widget.EPL_Lineup_Widget.apk
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\bin\Release\EPL_Lineup_Widget.EPL_Lineup_Widget-Signed.apk
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\bin\Release\Newtonsoft.Json.dll
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\bin\Release\Newtonsoft.Json.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\FootballUpdateWidget.csproj.CoreCompileInputs.cache
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\FootballUpdateWidget.dll
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\FootballUpdateWidget.pdb
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\android\bin\EPL_Lineup_Widget.EPL_Lineup_Widget.apk
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\layout\epllineupwidget.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\layout\main.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\values\strings.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\branchopenlayout2.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\mipmap-xxhdpi\ic_launcher.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\mipmap-xxxhdpi\ic_launcher.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\mipmap-hdpi\ic_launcher.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\mipmap-mdpi\ic_launcher.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\mipmap-xhdpi\ic_launcher.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\xml\appwidgetprovider.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\cardlayout.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\cardstyle2.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\distancefromuser2.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\distancelayout2.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\materialcard.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\materiarow.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\mockup2_buttonredborder.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\mockup2_buttonredborder2.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\mockup2_layoutborder.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\mockup2_signupbuttonred.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\mockup2_textfieldlowerborder.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\nav_color_select.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\roundbutton_green.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\roundbutton_layout.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\roundbutton_layout2.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\roundbutton_layout3.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\roundbutton_layout4.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\roundbutton_layout5.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\roundbutton_layout6.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\roundbutton_layoutblue.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\roundcard_layout.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\roundcarddark_layout.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\scheduletemplate.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\spinnerstyle.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\textfield_round.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\textfield_roundhardedge.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\textfields2.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\textfields3.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\textfields4.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\textfields5.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\uneditabletextlayout.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\border.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\border_gray.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\border_top.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\borderlayout_white.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\borderlayout_white2.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable\borderright.xml
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable-xxhdpi\ic_update_black_24dp.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable-xxxhdpi\ic_update_black_24dp.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable-hdpi\ic_update_black_24dp.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable-mdpi\ic_update_black_24dp.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable-xhdpi\ic_update_black_24dp.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable-xhdpi\ic_update_black_36dp.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable-xxhdpi\ic_update_black_36dp.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable-xxxhdpi\ic_update_black_36dp.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable-hdpi\ic_update_black_36dp.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable-mdpi\ic_update_black_36dp.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable-xhdpi\ic_update.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable-xxhdpi\ic_update.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable-xxxhdpi\ic_update.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable-hdpi\ic_update.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable-mdpi\ic_update.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable-xxhdpi\epl.9.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable-xxxhdpi\epl.9.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable-hdpi\epl.9.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable-mdpi\epl.9.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable-xhdpi\epl.9.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable-xhdpi\epl2.9.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable-xxhdpi\epl2.9.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable-xxxhdpi\epl2.9.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable-hdpi\epl2.9.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable-mdpi\epl2.9.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable-xhdpi\ic_epl2.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable-xxhdpi\ic_epl2.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable-xxxhdpi\ic_epl2.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable-hdpi\ic_epl2.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\drawable-mdpi\ic_epl2.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\mipmap-xxhdpi\ic_update2.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\mipmap-xxxhdpi\ic_update2.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\mipmap-hdpi\ic_update2.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\mipmap-mdpi\ic_update2.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\res\mipmap-xhdpi\ic_update2.png
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\R.cs.flag
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\uploadflags.txt
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\bin\Release\Calligraphy.dll
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\FootballUpdateWidget.csprojResolveAssemblyReference.cache
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\bin\Release\FootballUpdateWidget.dll.mdb
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\android\assets\FootballUpdateWidget.dll.mdb
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\bin\Release\FootballUpdateWidget.dll
+bin\Release\Microsoft.CSharp.pdb
+bin\Release\Mono.Android.pdb
+bin\Release\mscorlib.pdb
+bin\Release\System.Core.pdb
+bin\Release\System.pdb
+bin\Release\System.IO.Compression.pdb
+bin\Release\System.Json.pdb
+bin\Release\System.Net.Http.pdb
+bin\Release\System.Xml.pdb
+bin\Release\System.Runtime.Serialization.pdb
+bin\Release\System.ServiceModel.Internals.pdb
+bin\Release\System.Numerics.pdb
+bin\Release\System.Xml.Linq.pdb
+bin\Release\Mono.Security.pdb
+bin\Release\System.ComponentModel.Composition.pdb
+obj\Release\linksrc\FootballUpdateWidget.dll.mdb
+obj\Release\linksrc\Microsoft.CSharp.pdb
+obj\Release\linksrc\Mono.Android.pdb
+obj\Release\linksrc\mscorlib.pdb
+obj\Release\linksrc\System.Core.pdb
+obj\Release\linksrc\System.pdb
+obj\Release\linksrc\System.IO.Compression.pdb
+obj\Release\linksrc\System.Json.pdb
+obj\Release\linksrc\System.Net.Http.pdb
+obj\Release\linksrc\System.Xml.pdb
+obj\Release\linksrc\System.Runtime.Serialization.pdb
+obj\Release\linksrc\System.ServiceModel.Internals.pdb
+obj\Release\linksrc\System.Numerics.pdb
+obj\Release\linksrc\System.Xml.Linq.pdb
+obj\Release\linksrc\Mono.Security.pdb
+obj\Release\linksrc\System.ComponentModel.Composition.pdb

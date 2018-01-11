@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="EPL_Lineup_Widget.EPL_Lineup_Widget" android:versionCode="1" android:versionName="0.1" android:installLocation="auto">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="21" />
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <uses-permission android:name="android.permission.BIND_APPWIDGET" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+  <uses-permission android:name="android.permission.BIND_REMOTEVIEWS" />
+  <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:allowBackup="true" android:label="EPL Lineup Widget" android:icon="@mipmap/ic_launcher" android:name="android.app.Application" android:debuggable="true">
+    <receiver android:label="EPL Standing" android:name="md5a39d3b020147165ff7e4c9e37c888b38.AppWidget">
+      <meta-data android:name="android.appwidget.provider" android:resource="@xml/appwidgetprovider" />
+      <intent-filter>
+        <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+      </intent-filter>
+    </receiver>
+    <activity android:name="md5a39d3b020147165ff7e4c9e37c888b38.MainActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="EPL_Lineup_Widget.EPL_Lineup_Widget.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.EPL_Lineup_Widget.EPL_Lineup_Widget" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>

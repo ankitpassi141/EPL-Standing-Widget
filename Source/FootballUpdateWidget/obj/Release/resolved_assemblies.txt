@@ -1,0 +1,15 @@
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\android\assets\FootballUpdateWidget.dll
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\android\assets\Calligraphy.dll
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\android\assets\Java.Interop.dll
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\android\assets\Microsoft.CSharp.dll
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\android\assets\Mono.Android.dll
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\android\assets\mscorlib.dll
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\android\assets\Newtonsoft.Json.dll
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\android\assets\System.Core.dll
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\android\assets\System.dll
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\android\assets\System.Net.Http.dll
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\android\assets\System.Xml.dll
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\android\assets\System.Runtime.Serialization.dll
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\android\assets\System.Numerics.dll
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\android\assets\System.Xml.Linq.dll
+E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Release\android\assets\Mono.Security.dll
