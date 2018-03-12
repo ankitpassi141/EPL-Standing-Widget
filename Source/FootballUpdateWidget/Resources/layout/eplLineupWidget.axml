@@ -61,7 +61,8 @@
             p1:layout_width="wrap_content"
             p1:layout_height="match_parent"
             p1:id="@+id/linearLayout5"
-            p1:layout_weight="0.1">
+            p1:layout_weight="0.1"
+            p1:paddingLeft="8dp">
             <TextView
                 p1:text="01."
                 p1:layout_width="match_parent"
@@ -130,7 +131,8 @@
                 p1:textColor="#400942"
                 p1:layout_gravity="center"
                 p1:gravity="center"
-                p1:textSize="16sp" />
+                p1:textSize="16sp"
+                p1:textStyle="bold" />
             <TextView
                 p1:text="Team Name 2"
                 p1:layout_width="match_parent"
@@ -140,7 +142,8 @@
                 p1:textColor="#400942"
                 p1:layout_gravity="center"
                 p1:gravity="center"
-                p1:textSize="16sp" />
+                p1:textSize="16sp"
+                p1:textStyle="bold" />
             <TextView
                 p1:text="Team Name 3"
                 p1:layout_width="match_parent"
@@ -150,7 +153,8 @@
                 p1:textColor="#400942"
                 p1:layout_gravity="center"
                 p1:gravity="center"
-                p1:textSize="16sp" />
+                p1:textSize="16sp"
+                p1:textStyle="bold" />
             <TextView
                 p1:text="Team Name 4"
                 p1:layout_width="match_parent"
@@ -160,7 +164,8 @@
                 p1:textColor="#400942"
                 p1:layout_gravity="center"
                 p1:gravity="center"
-                p1:textSize="16sp" />
+                p1:textSize="16sp"
+                p1:textStyle="bold" />
             <TextView
                 p1:text="Team Name 5"
                 p1:layout_width="match_parent"
@@ -170,7 +175,8 @@
                 p1:textColor="#400942"
                 p1:layout_gravity="center"
                 p1:gravity="center"
-                p1:textSize="16sp" />
+                p1:textSize="16sp"
+                p1:textStyle="bold" />
         </LinearLayout>
         <LinearLayout
             p1:orientation="horizontal"
@@ -198,7 +204,8 @@
                     p1:textColor="#400942"
                     p1:layout_gravity="center"
                     p1:gravity="center"
-                    p1:textSize="16sp" />
+                    p1:textSize="16sp"
+                    p1:textStyle="bold" />
                 <TextView
                     p1:text="0"
                     p1:layout_width="match_parent"
@@ -208,7 +215,8 @@
                     p1:textColor="#400942"
                     p1:layout_gravity="center"
                     p1:gravity="center"
-                    p1:textSize="16sp" />
+                    p1:textSize="16sp"
+                    p1:textStyle="bold" />
                 <TextView
                     p1:text="0"
                     p1:layout_width="match_parent"
@@ -218,7 +226,8 @@
                     p1:textColor="#400942"
                     p1:layout_gravity="center"
                     p1:gravity="center"
-                    p1:textSize="16sp" />
+                    p1:textSize="16sp"
+                    p1:textStyle="bold" />
                 <TextView
                     p1:text="0"
                     p1:layout_width="match_parent"
@@ -228,7 +237,8 @@
                     p1:textColor="#400942"
                     p1:layout_gravity="center"
                     p1:gravity="center"
-                    p1:textSize="16sp" />
+                    p1:textSize="16sp"
+                    p1:textStyle="bold" />
                 <TextView
                     p1:text="0"
                     p1:layout_width="match_parent"
@@ -238,7 +248,8 @@
                     p1:textColor="#400942"
                     p1:layout_gravity="center"
                     p1:gravity="center"
-                    p1:textSize="16sp" />
+                    p1:textSize="16sp"
+                    p1:textStyle="bold" />
             </LinearLayout>
             <LinearLayout
                 p1:orientation="vertical"
@@ -247,7 +258,8 @@
                 p1:layout_width="wrap_content"
                 p1:layout_height="match_parent"
                 p1:id="@+id/linearLayout8"
-                p1:layout_weight="0.4">
+                p1:layout_weight="0.4"
+                p1:paddingRight="8dp">
                 <TextView
                     p1:text="pts"
                     p1:layout_width="match_parent"
@@ -308,7 +320,8 @@
         p1:layout_width="match_parent"
         p1:layout_height="wrap_content"
         p1:id="@+id/eplNeedRefresh"
-        p1:padding="2dp">
+        p1:padding="2dp"
+        p1:visibility="visible">
         <TextView
             p1:text="Hit Refresh to Update League Standings."
             p1:layout_width="match_parent"

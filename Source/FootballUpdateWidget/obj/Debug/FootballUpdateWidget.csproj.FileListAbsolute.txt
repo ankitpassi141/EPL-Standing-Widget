@@ -96,4 +96,3 @@ E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Debug\R.
 E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Debug\uploadflags.txt
 E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\bin\Debug\FootballUpdateWidget.dll.mdb
 E:\Hackathon Stuff\Trials\FootballUpdateWidget\FootballUpdateWidget\obj\Debug\android\assets\FootballUpdateWidget.dll.mdb
-obj\Debug\linksrc\Mono.Android.pdb

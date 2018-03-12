@@ -2,7 +2,7 @@
 <xs:schema xmlns:p1="http://schemas.android.com/apk/res/android" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/apk/res/android" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v25</xs:documentation>
-    <xs:documentation>12-03-2018 20:36:17</xs:documentation>
+    <xs:documentation>12-03-2018 20:52:04</xs:documentation>
   </xs:annotation>
   <xs:attribute name="accessibilityLiveRegion">
     <xs:annotation>
@@ -18930,6 +18930,8 @@
             <xs:enumeration value="@+id/" />
             <xs:enumeration value="@+id/checkedTextView1" />
             <xs:enumeration value="@id/calligraphy_tag_id" />
+            <xs:enumeration value="@id/eplNeedRefresh" />
+            <xs:enumeration value="@id/eplTeamsGrid" />
             <xs:enumeration value="@id/exp2" />
             <xs:enumeration value="@id/imageView1" />
             <xs:enumeration value="@id/leagueIcon" />

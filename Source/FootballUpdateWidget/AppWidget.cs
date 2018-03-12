@@ -111,8 +111,8 @@ namespace FootballUpdateWidget
             //widgetView.SetTextViewText(Resource.Id.widget_team5points, string.Format(team5points));
             if (listTeamName.Count == 0)
             {
-                widgetView.SetViewVisibility(Resource.Id.eplTeamsGrid, ViewStates.Visible);
-                widgetView.SetViewVisibility(Resource.Id.eplNeedRefresh, ViewStates.Gone);
+                widgetView.SetViewVisibility(Resource.Id.eplNeedRefresh, ViewStates.Visible);
+                widgetView.SetViewVisibility(Resource.Id.eplTeamsGrid, ViewStates.Gone);
                 //team1 = "Refresh Needed";
                 //team1points = "6";
                 //widgetView.SetTextViewText(Resource.Id.widget_team1, string.Format(team1));
@@ -121,8 +121,8 @@ namespace FootballUpdateWidget
             }
             else
             {
-                widgetView.SetViewVisibility(Resource.Id.eplTeamsGrid, ViewStates.Gone);
-                widgetView.SetViewVisibility(Resource.Id.eplNeedRefresh, ViewStates.Visible);
+                widgetView.SetViewVisibility(Resource.Id.eplNeedRefresh, ViewStates.Gone);
+                widgetView.SetViewVisibility(Resource.Id.eplTeamsGrid, ViewStates.Visible);
                 team1 = listTeamName[0];
                 team1points = listTeamPoints[0];
                 team2 = listTeamName[1];
