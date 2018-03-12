@@ -2,7 +2,7 @@
 <inset xmlns:android="http://schemas.android.com/apk/res/android">
 
   <shape>
-    <solid android:color="#ffffffff" />
+    <solid android:color="#ffffff" />
     <corners
         android:topRightRadius="2dp"
         android:topLeftRadius="2dp"

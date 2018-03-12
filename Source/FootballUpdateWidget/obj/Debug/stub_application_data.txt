@@ -1,2 +1,0 @@
-android.app.Application
-EPL_Lineup_Widget.EPL_Lineup_Widget

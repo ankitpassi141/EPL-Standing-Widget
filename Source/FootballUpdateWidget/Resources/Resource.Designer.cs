@@ -123,61 +123,64 @@ namespace FootballUpdateWidget
 			public const int nav_color_select = 2130837528;
 			
 			// aapt resource value: 0x7f020019
-			public const int roundbutton_green = 2130837529;
+			public const int refresh = 2130837529;
 			
 			// aapt resource value: 0x7f02001a
-			public const int roundbutton_layout = 2130837530;
+			public const int roundbutton_green = 2130837530;
 			
 			// aapt resource value: 0x7f02001b
-			public const int roundbutton_layout2 = 2130837531;
+			public const int roundbutton_layout = 2130837531;
 			
 			// aapt resource value: 0x7f02001c
-			public const int roundbutton_layout3 = 2130837532;
+			public const int roundbutton_layout2 = 2130837532;
 			
 			// aapt resource value: 0x7f02001d
-			public const int roundbutton_layout4 = 2130837533;
+			public const int roundbutton_layout3 = 2130837533;
 			
 			// aapt resource value: 0x7f02001e
-			public const int roundbutton_layout5 = 2130837534;
+			public const int roundbutton_layout4 = 2130837534;
 			
 			// aapt resource value: 0x7f02001f
-			public const int roundbutton_layout6 = 2130837535;
+			public const int roundbutton_layout5 = 2130837535;
 			
 			// aapt resource value: 0x7f020020
-			public const int roundbutton_layoutBlue = 2130837536;
+			public const int roundbutton_layout6 = 2130837536;
 			
 			// aapt resource value: 0x7f020021
-			public const int roundCard_layout = 2130837537;
+			public const int roundbutton_layoutBlue = 2130837537;
 			
 			// aapt resource value: 0x7f020022
-			public const int roundCardDark_Layout = 2130837538;
+			public const int roundCard_layout = 2130837538;
 			
 			// aapt resource value: 0x7f020023
-			public const int scheduleTemplate = 2130837539;
+			public const int roundCardDark_Layout = 2130837539;
 			
 			// aapt resource value: 0x7f020024
-			public const int spinnerStyle = 2130837540;
+			public const int scheduleTemplate = 2130837540;
 			
 			// aapt resource value: 0x7f020025
-			public const int textfield_round = 2130837541;
+			public const int spinnerStyle = 2130837541;
 			
 			// aapt resource value: 0x7f020026
-			public const int textfield_roundhardedge = 2130837542;
+			public const int textfield_round = 2130837542;
 			
 			// aapt resource value: 0x7f020027
-			public const int textFields2 = 2130837543;
+			public const int textfield_roundhardedge = 2130837543;
 			
 			// aapt resource value: 0x7f020028
-			public const int textFields3 = 2130837544;
+			public const int textFields2 = 2130837544;
 			
 			// aapt resource value: 0x7f020029
-			public const int textfields4 = 2130837545;
+			public const int textFields3 = 2130837545;
 			
 			// aapt resource value: 0x7f02002a
-			public const int textfields5 = 2130837546;
+			public const int textfields4 = 2130837546;
 			
 			// aapt resource value: 0x7f02002b
-			public const int uneditableTextLayout = 2130837547;
+			public const int textfields5 = 2130837547;
+			
+			// aapt resource value: 0x7f02002c
+			public const int uneditableTextLayout = 2130837548;
 			
 			static Drawable()
 			{
@@ -195,131 +198,131 @@ namespace FootballUpdateWidget
 			// aapt resource value: 0x7f060000
 			public const int calligraphy_tag_id = 2131099648;
 			
+			// aapt resource value: 0x7f060017
+			public const int eplNeedRefresh = 2131099671;
+			
+			// aapt resource value: 0x7f060006
+			public const int eplTeamsGrid = 2131099654;
+			
 			// aapt resource value: 0x7f06002a
 			public const int exp2 = 2131099690;
 			
 			// aapt resource value: 0x7f060003
-			public const int leagueIcon = 2131099651;
+			public const int imageView1 = 2131099651;
 			
-			// aapt resource value: 0x7f060004
-			public const int leagueName = 2131099652;
-			
-			// aapt resource value: 0x7f060009
-			public const int linearLayout10 = 2131099657;
-			
-			// aapt resource value: 0x7f06000c
-			public const int linearLayout11 = 2131099660;
-			
-			// aapt resource value: 0x7f060008
-			public const int linearLayout2 = 2131099656;
-			
-			// aapt resource value: 0x7f060019
-			public const int linearLayout3 = 2131099673;
+			// aapt resource value: 0x7f06001b
+			public const int leagueIcon = 2131099675;
 			
 			// aapt resource value: 0x7f06001c
-			public const int linearLayout4 = 2131099676;
-			
-			// aapt resource value: 0x7f060022
-			public const int linearLayout5 = 2131099682;
-			
-			// aapt resource value: 0x7f060023
-			public const int linearLayout6 = 2131099683;
-			
-			// aapt resource value: 0x7f060006
-			public const int linearLayout7 = 2131099654;
+			public const int leagueName = 2131099676;
 			
 			// aapt resource value: 0x7f060001
-			public const int linearLayout8 = 2131099649;
+			public const int linearLayout1 = 2131099649;
 			
 			// aapt resource value: 0x7f060002
-			public const int linearLayout9 = 2131099650;
+			public const int linearLayout2 = 2131099650;
+			
+			// aapt resource value: 0x7f06001e
+			public const int linearLayout3 = 2131099678;
+			
+			// aapt resource value: 0x7f060019
+			public const int linearLayout4 = 2131099673;
+			
+			// aapt resource value: 0x7f060007
+			public const int linearLayout5 = 2131099655;
+			
+			// aapt resource value: 0x7f060009
+			public const int linearLayout6 = 2131099657;
+			
+			// aapt resource value: 0x7f06000f
+			public const int linearLayout7 = 2131099663;
+			
+			// aapt resource value: 0x7f060016
+			public const int linearLayout8 = 2131099670;
+			
+			// aapt resource value: 0x7f060010
+			public const int linearLayout9 = 2131099664;
 			
 			// aapt resource value: 0x7f060005
 			public const int standingUpdate = 2131099653;
 			
-			// aapt resource value: 0x7f06001d
-			public const int team1 = 2131099677;
+			// aapt resource value: 0x7f060020
+			public const int team1 = 2131099680;
 			
-			// aapt resource value: 0x7f060024
-			public const int team1Points = 2131099684;
+			// aapt resource value: 0x7f060025
+			public const int team1Points = 2131099685;
 			
-			// aapt resource value: 0x7f06001e
-			public const int team2 = 2131099678;
+			// aapt resource value: 0x7f060021
+			public const int team2 = 2131099681;
 			
 			// aapt resource value: 0x7f060026
 			public const int team2Points = 2131099686;
 			
-			// aapt resource value: 0x7f06001f
-			public const int team3 = 2131099679;
+			// aapt resource value: 0x7f060022
+			public const int team3 = 2131099682;
 			
 			// aapt resource value: 0x7f060027
 			public const int team3Points = 2131099687;
 			
-			// aapt resource value: 0x7f060020
-			public const int team4 = 2131099680;
+			// aapt resource value: 0x7f060023
+			public const int team4 = 2131099683;
 			
 			// aapt resource value: 0x7f060028
 			public const int team4Points = 2131099688;
 			
-			// aapt resource value: 0x7f060021
-			public const int team5 = 2131099681;
+			// aapt resource value: 0x7f060024
+			public const int team5 = 2131099684;
 			
 			// aapt resource value: 0x7f060029
 			public const int team5Points = 2131099689;
 			
+			// aapt resource value: 0x7f06001d
+			public const int teamUpdateButton = 2131099677;
+			
+			// aapt resource value: 0x7f060008
+			public const int textView1 = 2131099656;
+			
+			// aapt resource value: 0x7f060004
+			public const int textView2 = 2131099652;
+			
 			// aapt resource value: 0x7f060018
-			public const int teamUpdateButton = 2131099672;
+			public const int textView3 = 2131099672;
 			
-			// aapt resource value: 0x7f06001b
-			public const int textView1 = 2131099675;
-			
-			// aapt resource value: 0x7f060025
-			public const int textView3 = 2131099685;
+			// aapt resource value: 0x7f06001f
+			public const int textView4 = 2131099679;
 			
 			// aapt resource value: 0x7f06001a
-			public const int textView4 = 2131099674;
+			public const int updateTime = 2131099674;
 			
 			// aapt resource value: 0x7f06000a
-			public const int textView5 = 2131099658;
-			
-			// aapt resource value: 0x7f06000e
-			public const int textView7 = 2131099662;
-			
-			// aapt resource value: 0x7f060017
-			public const int updateTime = 2131099671;
-			
-			// aapt resource value: 0x7f060007
-			public const int updateTime2 = 2131099655;
-			
-			// aapt resource value: 0x7f06000b
-			public const int widget_team1 = 2131099659;
-			
-			// aapt resource value: 0x7f06000d
-			public const int widget_team1points = 2131099661;
-			
-			// aapt resource value: 0x7f06000f
-			public const int widget_team2 = 2131099663;
-			
-			// aapt resource value: 0x7f060010
-			public const int widget_team2points = 2131099664;
+			public const int widget_team1 = 2131099658;
 			
 			// aapt resource value: 0x7f060011
-			public const int widget_team3 = 2131099665;
+			public const int widget_team1points = 2131099665;
+			
+			// aapt resource value: 0x7f06000b
+			public const int widget_team2 = 2131099659;
 			
 			// aapt resource value: 0x7f060012
-			public const int widget_team3points = 2131099666;
+			public const int widget_team2points = 2131099666;
+			
+			// aapt resource value: 0x7f06000c
+			public const int widget_team3 = 2131099660;
 			
 			// aapt resource value: 0x7f060013
-			public const int widget_team4 = 2131099667;
+			public const int widget_team3points = 2131099667;
+			
+			// aapt resource value: 0x7f06000d
+			public const int widget_team4 = 2131099661;
 			
 			// aapt resource value: 0x7f060014
 			public const int widget_team4points = 2131099668;
 			
-			// aapt resource value: 0x7f060015
-			public const int widget_team5 = 2131099669;
+			// aapt resource value: 0x7f06000e
+			public const int widget_team5 = 2131099662;
 			
-			// aapt resource value: 0x7f060016
-			public const int widget_team5points = 2131099670;
+			// aapt resource value: 0x7f060015
+			public const int widget_team5points = 2131099669;
 			
 			static Id()
 			{
